@@ -1,5 +1,0 @@
-{
-    "name" : "Curling",
-    "description" : "Makes a request to a webserver and reads back the text returned",
-    "type" : ["voice"]
-}

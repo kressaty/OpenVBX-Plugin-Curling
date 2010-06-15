@@ -1,6 +1,0 @@
-{
-    "name" : "Curling",
-    "author" : "Jonathan Kressaty <jonathan.kressaty@gmail.com>",
-    "description" : "Makes a request to a webserver and reads back the text returned",
-    "url" : "http://openvbx.org"
-}
